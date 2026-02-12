@@ -80,23 +80,10 @@ React + API Integration
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabeelpp2002&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeelpp2002&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-
----
-
 # 🌐 Connect With Me
 
 📧 nabeelpp2002@gmail.com  
-💼 Add your LinkedIn link here  
+💼 www.linkedin.com/in/nabeel-p-p-a68b40239  
 💻 https://github.com/nabeelpp2002  
 
 ---
