@@ -1,108 +1,105 @@
 <h1 align="center">Hi 👋, I'm Nabeel P P</h1>
-<h3 align="center">Software Engineer | .NET Full Stack Developer | Angular & React</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=.NET+Full+Stack+Developer;Angular+%7C+React+Developer;Azure+DevOps+%7C+CI%2FCD;Building+Scalable+Web+Applications" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-💼 Software Engineer with hands-on experience in full-stack development  
-🏢 Former **Full Stack Developer Intern at Geeky Wolf (Angular & .NET)**  
+💼 Software Engineer with strong full-stack experience  
+🏢 Full Stack Developer Intern at **Geeky Wolf**  
 🏢 React Developer Intern at **DreamAlle Solutions**  
-💻 Strong in **.NET, ASP.NET Core, Angular, React, Node.js**  
-⚡ Experience with **Azure DevOps, CI/CD pipelines, builds & deployments**  
-🎯 Passionate about building scalable, secure, and high-performance applications  
-🌱 Always learning modern backend & frontend architectures  
+⚡ Experienced in **.NET, Angular, Azure DevOps & CI/CD pipelines**  
+🎯 Passionate about clean architecture & scalable systems  
+🌱 Continuously improving backend & frontend expertise  
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Skills & Tools
 
-### 👨‍💻 Backend
-- C#
-- .NET / ASP.NET Core
-- ADO.NET
-- Entity Framework
-- Node.js
-- MSSQL / MySQL
+### 👨‍💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,js,python,c,cpp" />
+</p>
 
-### 🎨 Frontend
-- Angular
-- React
-- HTML5
-- CSS3
-- JavaScript
-- Tailwind CSS
-- Bootstrap
+### 🎨 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,react,html,css,tailwind,bootstrap" />
+</p>
 
-### ☁ DevOps & Tools
-- Azure DevOps  
-- CI/CD Pipelines  
-- Git & GitHub  
-- REST APIs  
-- MVC Architecture  
-- Postman  
-- Vercel  
+### 🧩 Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,mysql" />
+</p>
+
+### ☁ DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,jenkins,git,github,postman,vercel" />
+</p>
 
 ---
 
-## 💼 Experience
+# 💼 Experience
 
-### 🏢 Geeky Wolf  
-**Full Stack Developer Intern (Angular & .NET)**  
-- Worked on ERP system modules using **Angular for frontend** and **ASP.NET / .NET for backend**.  
-- Developed APIs and business logic using **Entity Framework & MSSQL**.  
-- Integrated frontend with backend services.  
-- Used **Azure DevOps for source control, boards, builds, and CI/CD pipelines**.  
-- Participated in deployment, debugging, and performance improvements.  
+## 🏢 Geeky Wolf  
+**Full Stack Developer Intern (.NET & Angular)**  
 
----
-
-### 🏢 DreamAlle Solutions  
-**React Developer Intern (Remote)**  
-- Building scalable React applications.  
-- Improving UI architecture and performance.  
+- Developed ERP modules using **Angular frontend**
+- Built backend services using **ASP.NET & Entity Framework**
+- Managed database operations using **MSSQL**
+- Worked with **Azure DevOps (Boards, Repos, Pipelines)**
+- Implemented **CI/CD pipelines for automated builds & deployments**
+- Debugging, optimization & production support
 
 ---
 
-### 🏢 Quest Innovative Solutions  
-**Trainee Software Engineer**  
-- Developed full-stack applications using .NET technologies.  
-- Worked on both frontend and backend modules.  
+## 🏢 DreamAlle Solutions  
+**React Developer Intern**
+
+- Contributed to scalable React applications
+- Improved UI architecture & performance
+- Worked on reusable components & API integration
 
 ---
 
-## 🔥 Featured Projects
+# 🚀 Featured Projects
 
-### 🧑‍🎓 Student Management System
-- Built using **.NET + Angular**
-- Role-based authentication
-- Entity Framework with MSSQL
+### 🧑‍🎓 Student Management System  
+.NET + Angular + Entity Framework + MSSQL  
 
-### 🛍 Artificier E-Commerce Website
-- Developed responsive UI using **React & Tailwind**
-- Product browsing and auctions
+### 🛍 Artificier E-Commerce Platform  
+React + Tailwind CSS  
 
-### 📧 Pintip Bulk Email Campaign System
-- Full-stack app using **React, Node.js, PostgreSQL**
-- Event tracking & analytics
+### 📧 Bulk Email Campaign System  
+React + Node.js + PostgreSQL  
 
-### 🎬 Netflix Clone
-- Built using React with API integration
+### 🎬 Netflix Clone  
+React + API Integration  
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-![Nabeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabeelpp2002&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nabeelpp2002&show_icons=true&theme=tokyonight" />
+</p>
 
----
-
-## 🌐 Connect With Me
-
-📧 Email: nabeelpp2002@gmail.com  
-🔗 LinkedIn: (Add your LinkedIn link)  
-💻 GitHub: https://github.com/nabeelpp2002  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeelpp2002&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-⭐ *Open to opportunities in .NET Full Stack Development with Angular & Azure DevOps*
+# 🌐 Connect With Me
+
+📧 nabeelpp2002@gmail.com  
+💼 Add your LinkedIn link here  
+💻 https://github.com/nabeelpp2002  
+
+---
+
+<p align="center">
+  ⭐ Open to .NET Full Stack & Angular Opportunities ⭐
+</p>
